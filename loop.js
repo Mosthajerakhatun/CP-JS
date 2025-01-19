@@ -57,7 +57,7 @@
 // }
 
 let array = [10,34,76,0,-6]
-let maxvalue = array [0];
+let maxvalue = array [0];   
 let minvalue = array [0];
 let i = 1;
 while(i< array.length){
